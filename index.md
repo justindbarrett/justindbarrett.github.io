@@ -1,6 +1,5 @@
 ## Projects
-* [_hello-world_](https://github.com/justindbarrett/hello-world)
-
-## Author
-I am an Electrical Engineering student studying firmware and hardware design at Boise State University. I also play around with coding, check it out.
+* [Poultry Plant Web and Mobile Application](https://github.com/justindbarrett/jbarpoultryapp)
+* [Custom Invoice Processing Client](https://github.com/justindbarrett/BWInvoiceApp)
+* [Web Scraper](https://github.com/justindbarrett/WebScraper)
 
